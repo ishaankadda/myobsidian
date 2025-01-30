@@ -1,0 +1,2 @@
+- Footnotes are a great way to explain things concisely without diverting from the flow of the writing. They are also great for diversions or continuations that are worth mentioning, and last but not least, a good way to cite references.
+- Bottom-load your explanations. This means keeping high-signal, hand-wavy, or crisp information at the top. Keep points that are less important or more involved at the bottom, and diversions for last. Note that it is often a good practice to begin with a line or paragraph that *motivates* reading of the section below.

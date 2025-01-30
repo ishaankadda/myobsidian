@@ -1,0 +1,68 @@
+# Lit review
+[[Video Foundation Models Survey]]
+- [ ] ~~**VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding.** _(VideoCLIP)_. [EMNLP, 2021].~~ pretrained on wikihow videos, unsuitable
+- [ ] **MovieChat: From Dense Token to Sparse Memory for Long Video Understanding.** _(MovieChat)_. [CVPR, 2024].  
+- [ ] **SRTube: Video-Language Pre-Training with Action-Centric Video Tube Features and Semantic Role Labeling.** _(SRTube)_. [CVPR, 2024].  
+- [ ] **VidLA: Video-Language Alignment at Scale.** _(VidLA)_. [CVPR, 2024].  
+- [ ] **ControlVideo: Training-free Controllable Text-to-Video Generation.** _(ControlVideo)_. [ICLR, 2024].  
+- [ ] **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.** _(ViCLIP)_. [ICLR, 2024].  
+- [ ] **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework.** _(MORA)_. [arxiv, 2024].  
+- [ ] **Memory Consolidation Enables Long-Context Video Understanding.** _(MC-ViT)_. [ICML, 2024].
+- [ ] **Lumiere: A Space-Time Diffusion Model for Video Generation.** _(Lumiere)_. [arxiv, 2024]. 
+- [ ] **VideoChat: Chat-Centric Video Understanding.** _(VideoChat)_. [arxiv, 2024].  
+- [ ] **VILA: On Pre-training for Visual Language Models.** _(VILA)_. [arxiv, 2024].  
+- [ ] **World Model on Million-Length Video And Language With Blockwise RingAttention.** _(LWM)_. [arxiv, 2024].  
+- [ ] **Video generation models as world simulators.** _(SORA)_. [OpenAI, 2024].
+- [ ] **All in One: Exploring Unified Video-Language Pre-training.** _(All-in-One)_. [CVPR, 2023].  
+**Clover: Towards A Unified Video-Language Alignment and Fusion Model.** _(Clover)_. [CVPR, 2023].
+- [ ] **HierVL: Learning Hierarchical Video-Language Embeddings.** _(HierVL)_. [CVPR, 2023].  
+- [ ] **LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling.** _(LAVENDER)_. [CVPR, 2023].
+- [ ] **Learning Video Representations from Large Language Models.** _(LaViLa)_. [CVPR, 2023]. 
+- [ ] **Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning.** _(MVD)_. [CVPR, 2023].  
+- [ ] **MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models.** _(MELTR)_. [CVPR, 2023].
+- [ ] **Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation.** _(MMVG)_. [CVPR, 2023].  
+- [ ] **Test of Time: Instilling Video-Language Models with a Sense of Time.** _(TACT)_. [CVPR, 2023].
+- [ ] **VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking.** _(VideoMAEv2)_. [CVPR, 2023].
+- [ ] **VindLU: A Recipe for Effective Video-and-Language Pretraining.** _(VindLU)_. [CVPR, 2023].  
+- [ ] **An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling.** _(Violetv2)_. [CVPR, 2023].  
+- [ ] **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.** _(Video-LLaMA)_. [EMNLP, 2023].  
+- [ ] **Audiovisual Masked Autoencoders.** _(AudVis MAE)_. [ICCV, 2023].  
+- [ ] **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing.** _(FateZero)_. [ICCV, 2023].
+- [ ] **HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training.** _(Hitea)_. [ICCV, 2023].
+- [ ] **MGMAE: Motion Guided Masking for Video Masked Autoencoding.** _(MGMAE)_. [ICCV, 2023].
+- [ ] **Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval.** _(ProST)_. [ICCV, 2023].
+- [ ] **StableVideo: Text-driven Consistency-aware Diffusion Video Editing.** _(StableVideo)_. [ICCV, 2023].
+- [ ] **Verbs in Action: Improving verb understanding in video-language models.** _(VFC)_. [ICCV, 2023].
+- [ ] **Paxion: Patching Action Knowledge in Video-Language Foundation Models.** _(PAXION)_. [NeurIPS, 2023].
+- [ ] **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System.** _(ChatVideo)_. [arxiv, 2023].
+- [ ] **Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models.** _(Control-A-Video)_. [arxiv, 2023].
+- [ ] **Dreamix: Video Diffusion Models are General Video Editors.** _(Dreammix)_. [arxiv, 2023].
+- [ ] **MM-VID: Advancing Video Understanding with GPT-4V(ision).** _(MM-VID)_. [arxiv, 2023].
+- [ ] **MuLTI: Efficient Video-and-Language Understanding with Text-Guided MultiWay-Sampler and Multiple Choice Modeling.** _(MuLTI)_. [arxiv, 2023].
+- [ ] **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets.** _(SV3D)_. [arxiv, 2023].  
+- [ ] **Valley: Video Assistant with Large Language model Enhanced abilitY.** _(Valley)_. [arxiv, 2023].
+- [ ] **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models.** _(Video-Bench)_. [arxiv, 2023].  
+- [ ] **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models.** _(Video-ChatGPT)_. [arxiv, 2023].
+- [ ] **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning.** _(VALOR)_. [arxiv, 2023].
+- [ ] **VideoGLUE: Video General Understanding Evaluation of Foundation Models.** _(Video-GLUE)_. [arxiv, 2023].
+- [ ] **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection.** _(Video-LLaVA)_. [arxiv, 2023].
+- [ ] **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions.** _(HD-VILA)_. [CVPR, 2022].
+- [ ] **Align and Prompt: Video-and-Language Pre-training with Entity Prompts.** _(MCQ)_. [CVPR, 2022]. 
+- [ ] **BEVT: BERT Pretraining of Video Transformers.** _(Bevt)_. [CVPR, 2022].
+- [ ] **Bridging Video-text Retrieval with Multiple Choice Questions.** _(ALPRO)_. [CVPR, 2022].
+- [ ] **End-to-end Generative Pretraining for Multimodal Video Captioning.** _(MV-GPT)_. [CVPR, 2022].
+- [ ] **Object-aware Video-language Pre-training for Retrieval.** _(OA-Trans)_. [CVPR, 2022].
+- [ ] **SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning.** _(SwinBERT)_. [CVPR, 2022].
+- [ ] **MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval.** _(MILES)_. [ECCV, 2022].
+- [ ] **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning.** _(LF-VILA)_. [NeurIPS, 2022].
+- [ ] **Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval.** _(TMVM)_. [NeurIPS, 2022].
+- [ ] **Masked Autoencoders As Spatiotemporal Learners.** _(ST-MAE)_. [NeurIPS, 2022].
+- [ ] **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training.** _(VideoMAE)_. [NeurIPS, 2022].
+- [ ] **TVLT: Textless Vision-Language Transformer.** _(TVLT)_. [NeurIPS, 2022].
+- [ ] **It Takes Two: Masked Appearance-Motion Modeling for Self-supervised Video Transformer Pre-training.** _(MAM2)_. [arxiv, 2022].
+- [ ] **Make-A-Video: Text-to-Video Generation without Text-Video Data.** _(Make-A-Video)_. [arxiv, 2022].
+- [ ] **SimVTP: Simple Video Text Pre-training with Masked Autoencoders.** _(SimVTP)_. [arxiv, 2022].  
+- [ ] **VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling.** _(Violet)_. [arxiv, 2022].  
+- [ ] **Just Ask: Learning to Answer Questions from Millions of Narrated Videos.** _(Just-Ask)_. [ICCV, 2021].  
+- [ ] **VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning.** _(Vimpac)_. [arxiv, 2021].  
+- [ ] **UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation.** _(UniVL)_. [arxiv, 2020].  

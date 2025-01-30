@@ -1,0 +1,1 @@
+What is the necessity to feel through, fathom, and uncover one's past? Why do we need to know the conditions, circumstances and experiences that made us? Why is it important to know one's family, one's native birthplace, one's country? The simple reason is that 
