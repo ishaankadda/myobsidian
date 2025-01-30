@@ -306,7 +306,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fusenets",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,7 +327,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -417,7 +418,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "181aa153e4f1f9be",
+  "active": "70b95d718ab0d8a5",
   "lastOpenFiles": [
     "yolov3 fusenet.md",
     "worldquant brain.md",
